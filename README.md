@@ -5,8 +5,8 @@
 ## Структура
 
 ```
-├── вопросы заказчику.md
-├── checklist.md
+├── answers.md  #вопросы заказчику
+├── checklist.md    #чеклист
 ├── tests/
 │   └── test_git.py  # автотесты
 └── README.md
