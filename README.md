@@ -42,3 +42,7 @@ sudo apt-get install -y git python3-pytest
 # Запустить тесты
 pytest -v
 ```
+
+## Пример использования автотестов
+
+![alt text](image.png)
